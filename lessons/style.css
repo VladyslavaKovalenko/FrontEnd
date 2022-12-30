@@ -1,0 +1,20 @@
+.input_text{
+    height: 30px;
+    width: 350px;
+}
+
+.search{
+    text-align: center;
+    margin: 30px;
+}
+
+.button{
+    height: 35px;
+}
+
+.container{
+    /* width: 300px; */
+    text-align: center;
+    /* height: 600px; */
+   
+}
