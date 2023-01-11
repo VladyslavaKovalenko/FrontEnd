@@ -1,4 +1,4 @@
-.input_text{
+/* .input_text{
     height: 30px;
     width: 350px;
 }
@@ -14,7 +14,10 @@
 
 .container{
     /* width: 300px; */
-    text-align: center;
+    /* text-align: center; */
     /* height: 600px; */
    
+
+.style{
+    text-decoration: line-through;
 }
